@@ -2,7 +2,9 @@
 
 To run
 
-## `node app.js`
+```
+node app.js`
+```
 
 
 
