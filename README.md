@@ -1,4 +1,4 @@
-# Creating a simple api experimenting the Mongo + Express + Node stack 
+# Simple API with the Mongo + Express + Node stack 
 
 To run
 
